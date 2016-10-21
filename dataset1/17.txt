@@ -1,0 +1,18 @@
+Data Discretization and Concept Hierarchy Generation
+Data discretization techniques can be used to reduce the number of values for a given
+continuous attribute by dividing the range of the attribute into intervals. Interval labels
+can then be used to replace actual data values. Replacing numerous values of a continuous
+attribute by a small number of interval labels thereby reduces and simpli?es the original
+data.Thisleadstoaconcise,easy-to-use,knowledge-levelrepresentationofminingresults.Discretization techniques can be categorized based on how the discretization is
+performed, such as whether it uses class information or which direction it proceeds
+(i.e., top-down vs. bottom-up). If the discretization process uses class information,
+then we say it is supervised discretization. Otherwise, it is unsupervised. If the process
+starts by ?rst ?nding one or a few points (called split points or cut points) to split the
+entire attribute range, and then repeats this recursively on the resulting intervals, it is
+called top-down discretization or splitting. This contrasts with bottom-up discretization
+or merging, which starts by considering all of the continuous values as potential
+split-points, removes some by merging neighborhood values to form intervals, and
+then recursively applies this process to the resulting intervals. Discretization can be
+performed recursively on an attribute to provide a hierarchical or multiresolution
+partitioning of the attribute values, known as a concept hierarchy. Concept hierarchies
+are useful for mining at multiple levels of abstraction.

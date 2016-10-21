@@ -1,0 +1,16 @@
+Dimensionality Reduction
+In dimensionality reduction, data encoding or transformations are applied so as to obtain
+a reduced or “compressed” representation of the original data. If the original data can
+be reconstructed from the compressed data without any loss of information, the data
+reduction is called lossless. If, instead, we can reconstruct only an approximation of
+the original data, then the data reduction is called lossy. There are several well-tuned
+algorithms for string compression. Although they are typically lossless, they allow only
+limited manipulation of the data. In this section, we instead focus on two popular and
+effective methods of lossy dimensionality reduction: wavelet transforms and principal
+components analysis.
+Wavelet Transforms
+The discrete wavelet transform (DWT) is a linear signal processing technique that, when
+applied to a data vector X, transforms it to a numerically different vector, X
+'
+, of wavelet
+coef?cients. The two vectors are of the same length

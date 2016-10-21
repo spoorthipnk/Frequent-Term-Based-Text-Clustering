@@ -1,0 +1,20 @@
+Cloud computing is a concept used to describe a variety of computing concepts that involve a large number of computers connected through a real-->time communication networksuch as the Internet. In science, cloud computing is a synonym for distributed over network, and means ability to run program or application on many connected computers at same time. The phrase also more commonly refers network 
+Local Search and The Probability of Failure-->10.txt 
+Data Cube Aggregation-->11.txt 
+Attribute Subset Selection-->12.txt 
+Dimensionality Reduction-->13.txt 
+Numerosity Reduction-->14.txt 
+Log-->linear models approximate discrete multidimensional probability distributions. Given a set of tuples in n dimensions (e.g., described by attributes), we 
+Clustering-->16.txt 
+Data Discretization and Concept Hierarchy Generation-->17.txt 
+Binning-->18.txt 
+Entropy-->Based Discretization 
+cloud computing is all the rage. "It's become the phrase du jour," says Gartner senior analyst Ben Pring, echoing many of his peers. The problem is that (as with Web 2.0) everyone seems to have a different definition.-->2.txt 
+Cluster Analysis-->20.txt 
+Cloud computing is the next stage in the Internet's evolution, providing the means through which everything � from computing power to computing infrastructure, applications, business processes to personal collaboration � can be delivered to you as a service wherever and whenever you need.-->3.txt 
+Generally, data mining (sometimes called data or knowledge discovery) is the process of analyzing data from different perspectives and summarizing it into useful information -->information that can be used to increase revenue, cuts costs, or both. Data mining software is one of a number analytical tools for analyzing data. It allows users analyze data from many different dimensions angles, categorize it, and summarize the relationships identified. Technically, process finding correlations patterns among dozens fields in large relational databases. 
+Data-->5.txt 
+Data mining is primarily used today by companies with a strong consumer focus -->retail, financial, communication, and marketing organizations. It enables these companies to determine relationships among "internal" factors such as price, product positioning, or staff skills, "external" economic indicators, competition, customer demographics. And, it them the impact on sales, satisfaction, corporate profits. Finally, "drill down" into summary information view detail transactional data. 
+How does data mining work?-->7.txt 
+What technological infrastructure is required?-->8.txt 
+The original proposition of a web search engine was to help you find the answer to your information need in a page or site on the web: if someone has already solved your problem, let us help you find their solution.-->9.txt 

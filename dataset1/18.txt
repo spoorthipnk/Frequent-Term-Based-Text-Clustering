@@ -1,0 +1,10 @@
+Binning
+Binning is a top-down splitting technique based on a speci?ed number of bins.
+Section 2.3.2 discussed binning methods for data smoothing. These methods are
+also used as discretization methods for numerosity reduction and concept hierarchy
+generation. For example, attribute values can be discretized by applying equal-width
+or equal-frequency binning, and then replacing each bin value by the bin mean or
+median, as in smoothing by bin means or smoothing by bin medians, respectively. These
+techniques can be applied recursively to the resulting partitions in order to generate concept hierarchies. Binning does not use class information and is therefore an
+unsupervised discretization technique. It is sensitive to the user-speci?ed number of
+bins, as well as the presence of outliers.

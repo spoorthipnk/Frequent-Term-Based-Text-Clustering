@@ -1,0 +1,6 @@
+Binning
+Binning-down splitting technique basedspecinumberbins.
+Sectiondiscussed binning methods data smoothing. These methods also useddiscretization methods numerosity reduction concept hierarchy
+generation. example, attribute values discretizedapplying equal-width
+equal-frequency binning, then replacing each valuemeanmedian, smoothingmeanssmoothingmedians, respectively. These
+techniques applied recursivelyresulting partitionsordergenerate concept hierarchies. Binning does class information thereforeunsupervised discretization technique. sensitiveuser-specinumberbins, wellpresenceoutliers.

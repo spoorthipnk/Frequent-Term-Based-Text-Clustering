@@ -1,0 +1,12 @@
+Log-linear models approximate discrete multidimensional probability distributions. Given a set of tuples in n dimensions (e.g., described by n attributes), we
+can consider each tuple as a point in an n-dimensional space. Log-linear models
+can be used to estimate the probability of each point in a multidimensional space
+for a set of discretized attributes, based on a smaller subset of dimensional combinations. This allows a higher-dimensional data space to be constructed from lowerdimensional spaces. Log-linear models are therefore also useful for dimensionality
+reduction (since the lower-dimensional points together typically occupy less space
+than the original data points) and data smoothing (since aggregate estimates in the
+lower-dimensional space are less subject to sampling variations than the estimates in
+the higher-dimensional space).
+Regression and log-linear models can both be used on sparse data, although their
+application may be limited. While both methods can handle skewed data, regression does
+exceptionally well. Regression can be computationally intensive when applied to highdimensional data, whereas log-linear models show good scalability for up to 10 or so
+dimensions. 

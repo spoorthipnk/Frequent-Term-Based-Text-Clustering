@@ -1,0 +1,20 @@
+does data mining work?
+While large-scale information technology been evolving separate transaction analytical systems, data mining provides link between . Data mining software analyzes relationships patternsstored transaction data basedopen-ended user queries. Several typesanalytical software available: statistical, machine learning, neural networks. Generally, four typesrelationships sought:
+�	Classes: Stored datausedlocate datapredetermined groups. examplerestaurant chain mine customer purchase datadetermine customers visit they typically order. information usedincrease traffichaving daily specials.
+�	Clusters: Data items grouped accordinglogical relationshipsconsumer preferences. example, data minedidentify market segmentsconsumer affinities.
+�	Associations: Data minedidentify associations. beer-diaper exampleexampleassociative mining.
+�	Sequential patterns: Dataminedanticipate behavior patterns trends. example, outdoor equipment retailer predict likelihoodbackpack being purchased basedconsumerpurchasesleeping bags hiking shoes.
+Data mining consistsfive major elements:
+�	Extract, transform, load transaction data onto data warehouse system.
+�	Store manage datamultidimensional database system.
+�	Provide data accessbusiness analysts information technology professionals.
+�	Analyze dataapplication software.
+�	Present datauseful format, suchgraphtable.
+Different levelsanalysis available:
+�	Artificial neural networks: -linear predictive models learn through training resemble biological neural networksstructure.
+�	Genetic algorithms: Optimization techniques processes suchgenetic combination, mutation, natural selectiondesign basedconceptsnatural evolution.
+�	Decision trees: Tree-shaped structures represent setsdecisions. These decisions generate rules classificationdataset. Specific decision tree methods include Classification Regression Trees (CART) Square Automatic Interaction Detection (CHAID) . CART CHAID decision tree techniques used classificationdataset. They providerules apply(unclassified) datasetpredict records given outcome. CART segmentsdatasetcreatingsplits while CHAID segments using square testscreate multi-splits. CART typically requires less data preparation than CHAID.
+�	Nearest neighbor methodtechnique classifies each recorddataset basedcombinationclassesk record(similarhistorical dataset (Sometimes called k-nearest neighbor technique.
+�	Rule induction: extractionuseful-then rules data basedstatistical significance.
+�	Data visualization: visual interpretationcomplex relationshipsmultidimensional data. Graphics tools usedillustrate data relationships.
+

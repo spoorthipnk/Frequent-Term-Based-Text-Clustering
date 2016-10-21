@@ -1,0 +1,13 @@
+Data Discretization Concept Hierarchy Generation
+Data discretization techniques usedreduce numbervalues given
+continuous attributedividing rangeattribute intervals. Interval labels
+thenusedreplace actual data values. Replacing numerous valuescontinuous
+attributesmall numberinterval labels thereby reduces simplioriginal
+data.Thisleadstoaconcise,easy-,knowledge-levelrepresentationofminingresults.Discretization techniques categorized baseddiscretizationperformed, suchwhetheruses class informationdirectionproceeds
+(.e-down. bottomdiscretization process uses class information,
+thensupervised discretization. Otherwise, unsupervised. process
+starts??nding points (called split pointspoints) split entire attribute range, then repeats recursivelyresulting intervals, called -down discretizationsplitting. contrasts bottomdiscretization
+merging, startsconsidering continuous valuespotential
+split-points, removes somemerging neighborhood valuesform intervals, then recursively applies processresulting intervals. Discretization performed recursivelyattributeprovidehierarchicalmultiresolution
+partitioningattribute values, knownconcept hierarchy. Concept hierarchies
+useful miningmultiple levelsabstraction.

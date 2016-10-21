@@ -1,0 +1,11 @@
+Cloud computingnext stageInternetevolution, providing means through everythingcomputing powercomputing infrastructure, applications, business processespersonal collaborationdeliveredservice wherever whenever need.
+�cloud� cloud computing definedhardware, networks, storage, services, interfaces combinedeliver aspectscomputingservice. Cloud services include deliverysoftware, infrastructure, storage over Internet (eitherseparate componentscomplete platform) baseduser demandCloud Computing Models lowdownclouds used.)
+Cloud computing four essential characteristics: elasticity abilityscaledown, self-service provisioning automatic deprovisioning, application programming interfaces (APIsbilling meteringservice usage-modelCloud Computing Characteristicsdiscusses these elementsdetailflexibilityattracting individuals businessesmovecloud.
+worldcloud lotsparticipants:
+�	user doesnknow anything underlying technology.
+�	Business management needstake responsibility governancedataservices livingcloud. Cloud service providers must providepredictable guaranteed service level securitytheir constituentsFind providers considerCloud Computing Issues.)
+�	cloud service provider responsible assets maintenance.
+
+Cloud computingoffereddifferent forms: public clouds, private clouds, hybrid clouds, combine both public privatesensedifferences these kindscloudsDeploying Public, Private, Hybrids Clouds.)
+Cloud computing completely change companies technologyservice customers, partners, suppliers. Some businesses, suchGoogle Amazon, already theirresourcescloud. They found eliminate manycomplex constraints traditional computing environment, including space, time, power, cost.
+

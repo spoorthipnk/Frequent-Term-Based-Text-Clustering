@@ -1,0 +1,12 @@
+cloud computingragebecome phrasejoursays Gartner senior analyst Pring, echoing manypeers. problem() everyone seemsdifferent definition.
+metaphor Internetcloud" familiar clichcombined "computingmeaning gets bigger fuzzier. Some analysts vendors define cloud computing narrowlyupdated versionutility computing: basically virtual servers available over Internet. Othersvery broad, arguing anything consume outside firewall"cloudincluding conventional outsourcing.
+Cloud computing comes focus only think always needsincrease capacitycapabilitieswithout investinginfrastructure, training personnel, licensing software. Cloud computing encompasses subscription-based--service , real time over Internet, extendsexisting capabilities.
+
+
+Cloud computingearly stage, motley crewproviders large small deliveringslewcloud-based services, full-blown applicationsstorage servicesspam filtering. , utility-style infrastructure providers part, SaaS (softwareservice) providers suchSalesforce.. Today, part, must plug cloud-based services individually, cloud computing aggregators integrators already emerging.
+InfoWorld talkeddozensvendors, analysts, customerstease various componentscloud computing. Basedthose discussions, hererough breakdowncloud computing:
+SaaS
+typecloud computing deliverssingle application through browserthousandscustomers usingmultitenant architecture. customer side, meansupfront investmentserverssoftware licensing; provider side, just maintain, costs comparedconventional hosting. Salesforce.best-known example enterprise applications, SaaSalso common apps even worked food chain, players suchWorkday. predicted sudden riseSaaS "desktop" applications, suchGoogle Apps Zoho Office?
+Utility computing
+idea, formcloud computinggetting life Amazon., , , others offer storage virtual servers accessdemand. Early enterprise adopters mainly utility computing supplemental, -mission-critical needs, , they replace partsdatacenter. Other providers offer solutions helpcreate virtual datacenters commodity servers, such3TeraAppLogic Cohesive Flexible Technologies' Elastic ServerDemand. Liquid ComputingLiquidQ offers similar capabilities, enablingstitch together memory/storage, computational capacityvirtualized resource pool available over network.
+

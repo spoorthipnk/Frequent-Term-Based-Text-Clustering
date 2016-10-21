@@ -1,0 +1,11 @@
+Cloud computing is the next stage in the Internet's evolution, providing the means through which everything — from computing power to computing infrastructure, applications, business processes to personal collaboration — can be delivered to you as a service wherever and whenever you need.
+The “cloud” in cloud computing can be defined as the set of hardware, networks, storage, services, and interfaces that combine to deliver aspects of computing as a service. Cloud services include the delivery of software, infrastructure, and storage over the Internet (either as separate components or a complete platform) based on user demand. (See Cloud Computing Models for the lowdown on the way clouds are used.)
+Cloud computing has four essential characteristics: elasticity and the ability to scale up and down, self-service provisioning and automatic deprovisioning, application programming interfaces (APIs), billing and metering of service usage in a pay-as-you-go model. (Cloud Computing Characteristicsdiscusses these elements in detail.) This flexibility is what is attracting individuals and businesses to move to the cloud.
+The world of the cloud has lots of participants:
+•	The end user who doesn’t have to know anything about the underlying technology.
+•	Business management who needs to take responsibility for the governance of data or services living in a cloud. Cloud service providers must provide a predictable and guaranteed service level and security to all their constituents. (Find out what providers have to consider in Cloud Computing Issues.)
+•	The cloud service provider who is responsible for IT assets and maintenance.
+
+Cloud computing is offered in different forms: public clouds, private clouds, and hybrid clouds, which combine both public and private. (You can get a sense of the differences among these kinds of clouds in Deploying Public, Private, or Hybrids Clouds.)
+Cloud computing can completely change the way companies use technology to service customers, partners, and suppliers. Some businesses, such as Google and Amazon, already have most of their IT resources in the cloud. They have found that it can eliminate many of the complex constraints from the traditional computing environment, including space, time, power, and cost.
+

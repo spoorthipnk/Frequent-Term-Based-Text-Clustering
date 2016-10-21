@@ -1,0 +1,8 @@
+Data Cube Aggregation
+Imagine collected data your analysis. These data consistAllElectronics sales quarter, years 20022004. , however, interested
+annual sales (total yearrather than total quarter. Thus data
+aggregatedresulting data summarize total sales year instead
+quarter. aggregationillustratedFigure13. resulting data smallervolume, without lossinformation necessary analysis task.
+Data cubes discusseddetailChapterdata warehousing. brie?y
+introduce some concepts here. Data cubes store multidimensional aggregated information. example, Figureshowsdata cube multidimensional analysissales data respectannual sales item type each AllElectronics branch.
+Each cell holdsaggregate data value, correspondingdata pointmultidimensional space. 

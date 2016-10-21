@@ -1,0 +1,11 @@
+Attribute Subset Selection
+Data sets analysis contain hundredsattributes, manyirrelevantmining taskredundant. example, taskclassify
+customerswhetherthey likelypurchasepopular AllElectronics notisale, attributes suchcustomertelephone number likelyirrelevant, unlike attributes suchmusic taste. Although
+possible domain expertpick someuseful attributes,
+?cult time-consuming task, especially behaviordatawell known (hencereason behind analysis!). Leaving relevant
+attributeskeeping irrelevant attributes detrimental, causing confusion mining algorithm employed. resultdiscovered patternspoor quality. addition, added volumeirrelevantredundant attributes slow
+down mining process.
+Attribute subset selection
+6
+reduces data sizeremoving irrelevantredundant attributes (dimensionsgoalattribute subset selection?minimum attributes such resulting probability distributiondata classesclosepossibleoriginal distribution obtained using attributes. Miningreduced attributes additional bene?reduces
+numberattributes appearingdiscovered patterns, helpingmake patterns easierunderstand.

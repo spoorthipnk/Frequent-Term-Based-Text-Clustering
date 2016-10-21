@@ -1,0 +1,6 @@
+Clustering
+Clustering techniques consider data tuplesobjects. They partition objects groupsclusters, objects withincluster �similar� another �dissimilar� objectsother clusters. Similaritycommonly?terms�close� objects space, baseddistance function. �quality� cluster
+representeddiameter, maximum distance between objectscluster. Centroid distancealternative measurecluster quality as
+average distanceeach cluster object cluster centroid (denoting �average objectaverage pointspace clusterFigureSectionshows plotcustomer data respectcustomer locationscity, centroid
+each clustershown �+�. Three data clusters visible.
+data reduction, cluster representationsdata usedreplace actual data. effectivenesstechnique dependsnaturedata. much more effective data organized distinct clusters than smeared data.

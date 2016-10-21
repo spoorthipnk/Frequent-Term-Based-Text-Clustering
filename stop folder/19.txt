@@ -1,0 +1,8 @@
+Entropy-Based Discretization
+Entropycommonly used discretization measures. ?introducedClaude Shannonpioneering workinformation theory concept
+information gain. Entropy-based discretizationsupervised, -down splitting
+technique. explores class distribution informationcalculation determination
+split-points (data values partitioningattribute rangediscretizenumerical attribute, method selects valueminimum entropysplit-point, recursively partitions resulting intervalsarrivehierarchical
+discretization. Such discretization formsconcept hierarchy .
+D consistdata tuples?attributes class-label attribute.
+class-label attribute provides class information tuple

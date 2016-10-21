@@ -1,0 +1,11 @@
+Data
+Data facts, numbers, text processedcomputer. Today, organizations accumulating vast growing amountsdatadifferent formats different databases. includes:
+�	operationaltransactional data such, sales, cost, inventory, payroll, accounting
+�	nonoperational data, suchindustry sales, forecast data, macro economic data
+�	meta datadata data itself, suchlogical database designdata dictionary definitions
+Information
+patterns, associations, relationships data provide information. example, analysisretail pointsale transaction data yield informationproducts selling .
+Knowledge
+Information converted knowledge historical patterns future trends. example, summary informationretail supermarket sales analyzedlightpromotional effortsprovide knowledgeconsumer buying behavior. Thusmanufacturerretailer determine items susceptiblepromotional efforts.
+Data Warehouses
+Dramatic advancesdata capture, processing power, data transmission, storage capabilities enabling organizationsintegrate their various databases intodata warehouses. Data warehousingdefinedprocesscentralized data management retrieval. Data warehousing, like data mining, relatively term although concept itself been around years. Data warehousing representsideal visionmaintainingcentral repositoryorganizational data. Centralizationdataneededmaximize user access analysis. Dramatic technological advances making visionreality many companies. , equally dramatic advancesdata analysis software allowing usersaccess data freely. data analysis softwaresupports data mining. 

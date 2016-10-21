@@ -1,0 +1,6 @@
+technological infrastructurerequired?
+Today, data mining applications availablesize systems mainframe, client/server, platforms. System prices range several thousand dollars smallest applications$1 millionterabyte largest. Enterprise-wide applications generally rangesize gigabytesoverterabytes. capacitydeliver applications exceeding terabytes. critical technological drivers:
+�	Sizedatabase: more data being processed maintained, more powerful system required.
+�	Query complexity: more complex queries greater numberqueries being processed, more powerful system required.
+Relational database storage management technologyadequate many data mining applications less thangigabytes. However, infrastructure needssignificantly enhancedsupport larger applications. Some vendors added extensive indexing capabilitiesimprove query performance. Others hardware architectures suchMassively Parallel Processors () achieve order-magnitude improvementsquery time. example, systems link hundredshigh-speed Pentium processorsachieve performance levels exceeding thoselargest supercomputers.
+

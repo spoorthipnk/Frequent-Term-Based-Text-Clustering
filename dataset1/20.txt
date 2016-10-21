@@ -1,0 +1,10 @@
+Cluster Analysis
+Cluster analysis is a popular data discretization method. A clustering algorithm can be
+applied to discretize a numerical attribute, A, by partitioning the values of A into clusters
+or groups. Clustering takes the distribution of A into consideration, as well as the closeness of data points, and therefore is able to produce high-quality discretization results.
+Clustering can be used to generate a concept hierarchy for A by following either a topdown splitting strategy or a bottom-up merging strategy, where each cluster forms a
+node of the concept hierarchy. In the former, each initial cluster or partition may be further decomposed into several subclusters, forming a lower level of the hierarchy.
+Discretization by Intuitive Partitioning
+Although the above discretization methods are useful in the generation of numerical
+hierarchies, many users would like to see numerical ranges partitioned into relatively
+uniform, easy-to-read intervals that appear intuitive or “natural.”

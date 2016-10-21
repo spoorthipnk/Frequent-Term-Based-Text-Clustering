@@ -1,0 +1,10 @@
+-linear models approximate discrete multidimensional probability distributions. Giventuplesn dimensions.gdescribedn attributeswe
+consider each tuplepointn-dimensional space. -linear models
+usedestimate probabilityeach pointmultidimensional space
+discretized attributes, basedsmaller subsetdimensional combinations. allowshigher-dimensional data spaceconstructed lowerdimensional spaces. -linear models therefore also useful dimensionality
+reduction (since lower-dimensional points together typically occupy less space
+than original data points) data smoothing (since aggregate estimateslower-dimensional space less subjectsampling variations than estimateshigher-dimensional space).
+Regression -linear models bothusedsparse data, although their
+application limited. While both methods handle skewed data, regression does
+exceptionally well. Regression computationally intensive appliedhighdimensional data, whereas -linear models show good scalability so
+dimensions. 

@@ -1,0 +1,9 @@
+Entropy-Based Discretization
+Entropy is one of the most commonly used discretization measures. It was ?rst introduced by Claude Shannon in pioneering work on information theory and the concept
+of information gain. Entropy-based discretization is a supervised, top-down splitting
+technique. It explores class distribution information in its calculation and determination
+of split-points (data values for partitioning an attribute range). To discretize a numerical attribute, A, the method selects the value of A that has the minimum entropy as a
+split-point, and recursively partitions the resulting intervals to arrive at a hierarchical
+discretization. Such discretization forms a concept hierarchy for A.
+Let D consist of data tuples de?ned by a set of attributes and a class-label attribute.
+The class-label attribute provides the class information per tuple

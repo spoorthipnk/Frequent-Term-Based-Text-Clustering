@@ -1,0 +1,11 @@
+Data Cube Aggregation
+Imagine that you have collected the data for your analysis. These data consist of the
+AllElectronics sales per quarter, for the years 2002 to 2004. You are, however, interested
+in the annual sales (total per year), rather than the total per quarter. Thus the data
+can be aggregated so that the resulting data summarize the total sales per year instead
+of per quarter. This aggregation is illustrated in Figure 2.13. The resulting data set is
+smaller in volume, without loss of information necessary for the analysis task.
+Data cubes are discussed in detail in Chapter 3 on data warehousing. We brie?y
+introduce some concepts here. Data cubes store multidimensional aggregated information. For example, Figure 2.14 shows a data cube for multidimensional analysis of
+sales data with respect to annual sales per item type for each AllElectronics branch.
+Each cell holds an aggregate data value, corresponding to the data point in multidimensional space. 

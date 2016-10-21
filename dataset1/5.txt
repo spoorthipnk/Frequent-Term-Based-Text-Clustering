@@ -1,0 +1,11 @@
+Data
+Data are any facts, numbers, or text that can be processed by a computer. Today, organizations are accumulating vast and growing amounts of data in different formats and different databases. This includes:
+•	operational or transactional data such as, sales, cost, inventory, payroll, and accounting
+•	nonoperational data, such as industry sales, forecast data, and macro economic data
+•	meta data - data about the data itself, such as logical database design or data dictionary definitions
+Information
+The patterns, associations, or relationships among all this data can provide information. For example, analysis of retail point of sale transaction data can yield information on which products are selling and when.
+Knowledge
+Information can be converted into knowledge about historical patterns and future trends. For example, summary information on retail supermarket sales can be analyzed in light of promotional efforts to provide knowledge of consumer buying behavior. Thus, a manufacturer or retailer could determine which items are most susceptible to promotional efforts.
+Data Warehouses
+Dramatic advances in data capture, processing power, data transmission, and storage capabilities are enabling organizations to integrate their various databases intodata warehouses. Data warehousing is defined as a process of centralized data management and retrieval. Data warehousing, like data mining, is a relatively new term although the concept itself has been around for years. Data warehousing represents an ideal vision of maintaining a central repository of all organizational data. Centralization of data is needed to maximize user access and analysis. Dramatic technological advances are making this vision a reality for many companies. And, equally dramatic advances in data analysis software are allowing users to access this data freely. The data analysis software is what supports data mining. 

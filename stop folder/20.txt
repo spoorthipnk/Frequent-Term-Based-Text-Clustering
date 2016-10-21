@@ -1,0 +1,8 @@
+Cluster Analysis
+Cluster analysispopular data discretization methodclustering algorithm applieddiscretizenumerical attribute, partitioning valuesclusters
+groups. Clustering takes distributionconsideration, wellclosenessdata points, thereforeableproduce high-quality discretization results.
+Clustering usedgenerateconcept hierarchy following eithertopdown splitting strategybottommerging strategy, each cluster forms nodeconcept hierarchy. former, each initial clusterpartition further decomposed several subclusters, forminglower levelhierarchy.
+DiscretizationIntuitive Partitioning
+Although above discretization methods usefulgenerationnumerical
+hierarchies, many users would likenumerical ranges partitioned relatively
+uniform, easy-read intervals appear intuitive�natural.�

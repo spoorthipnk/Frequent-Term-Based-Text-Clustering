@@ -1,0 +1,12 @@
+Local Search ProbabilityFailure
+Infogroupleading providersbusiness listingsinteresting posttheir site problemerrorslocal data. article they talk specifically errorbusiness closure frustration consumers experience they lookbusiness, travellocation onlyfind businessclosed.
+report released todayInfogroup, leading providerhigh-value data multichannel solutions, finds percentconsumers using local search services visitedclosed business percent social outing ruinedoutdated business listing information.
+read full article here.
+, upon reading , might reflectyour experience grumblerecognitionproblem. However, probabilityfailure misleading.
+imaginesome event probability.success. means attempt once, .chance experience failure. attempt twice, failure probability0.0199. computedcalculating probabilitysuccesses then subtracting .10^2).
+interpret survey data Infogroupmeaning consumers 52% chanceexperiencingerror (closurebusiness) then- given qualitydata, many unique businesses woulduser experiencesearch engine such probabilityseeingsingle error 52%?
+example, dataaccuracy being open .99, find approximately .52. other wordsuser would onlydistinct businesses before probabilityhaving seensingle error reaches% Infogroup article.
+datanever perfect, then - corpusdatagood? abledetermine corpuslocal listings precision.some attribute.being open rather than closed) actually very difficult. Firstly sizesample requiredreasonable error bounds95% confidence; secondly errorlabeling (degreeprecisionvery tricky issue).
+told, while interesting article, importantstep back lookpicture bothtermsinterpreting results termsunderstanding just challengesgetting accurate data, even problemdetermining accurate data.
+important thingdata engineering (building systems aggregate data improvesome regard) buildingsystem respondchange apply updates improvementsfluid manner. evaluatingdata provider, whileimportantthem detailsqualitytheir data (surprisingly, manythem abletell ) equally importantlearn processes they placeupdate correct data latencypossible.
+

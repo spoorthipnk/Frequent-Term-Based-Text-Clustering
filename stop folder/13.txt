@@ -1,0 +1,11 @@
+Dimensionality Reduction
+dimensionality reduction, data encodingtransformations appliedobtain
+reduced�compressed� representationoriginal data. original data reconstructed compressed data without lossinformation, data
+reductioncalled lossless. If, instead, reconstruct onlyapproximationoriginal data, then data reductioncalled lossy. several well-tuned
+algorithms string compression. Although they typically lossless, they allow only
+limited manipulationdata. section, instead focuspopular effective methodslossy dimensionality reduction: wavelet transforms principal
+components analysis.
+Wavelet Transforms
+discrete wavelet transform () linear signal processing technique , applieddata vector transformsnumerically different vector'
+, wavelet
+coef?cients. vectors same length

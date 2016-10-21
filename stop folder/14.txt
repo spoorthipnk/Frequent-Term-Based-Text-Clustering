@@ -1,0 +1,6 @@
+Numerosity Reduction
+�reduce data volumechoosing alternativesmaller� formsdata representationTechniquesnumerosity reduction indeedapplied purpose.
+These techniques parametricnonparametric. parametric methodsmodelusedestimate data, typically only data parameters needstored, insteadactual dataOutliers alsostored-linear models,
+estimate discrete multidimensional probability distributions, example.
+Nonparametric methods storing reduced representationsdata include histograms, clustering, sampling.
+lookeachnumerosity reduction techniques mentioned above

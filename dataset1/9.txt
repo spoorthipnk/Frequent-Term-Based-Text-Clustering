@@ -1,0 +1,4 @@
+The original proposition of a web search engine was to help you find the answer to your information need in a page or site on the web: if someone has already solved your problem, let us help you find their solution.
+There are still many search scenarios where this is the expectation of the users. One that comes (frequently) to mind is finding solutions to coding issues or API usage on coding forums and question answering sites like StackOverflow.com.
+However, there is a relatively new class of queries for which search engines like Bing and Google provide satisfaction immediately. For example, a query like 'who wrote To Kill a Mocking Bird' produces the following results:
+

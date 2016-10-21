@@ -1,0 +1,20 @@
+Attribute Subset Selection
+Data sets for analysis may contain hundreds of attributes, many of which may be
+irrelevant to the mining task or redundant. For example, if the task is to classify
+customers as to whether or not they are likely to purchase a popular new CD at
+AllElectronics when noti?ed of a sale, attributes such as the customer’s telephone number are likely to be irrelevant, unlike attributes such as age or music taste. Although
+it may be possible for a domain expert to pick out some of the useful attributes,
+this can be a dif?cult and time-consuming task, especially when the behavior of the
+data is not well known (hence, a reason behind its analysis!). Leaving out relevant
+attributes or keeping irrelevant attributes may be detrimental, causing confusion for
+the mining algorithm employed. This can result in discovered patterns of poor quality. In addition, the added volume of irrelevant or redundant attributes can slow
+down the mining process.
+Attribute subset selection
+6
+reduces the data set size by removing irrelevant or
+redundant attributes (or dimensions). The goal of attribute subset selection is to
+?nd a minimum set of attributes such that the resulting probability distribution of
+the data classes is as close as possible to the original distribution obtained using all
+attributes. Mining on a reduced set of attributes has an additional bene?t. It reduces
+the number of attributes appearing in the discovered patterns, helping to make the
+patterns easier to understand.

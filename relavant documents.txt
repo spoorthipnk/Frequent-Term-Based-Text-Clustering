@@ -1,0 +1,8 @@
+trade-->85.txt 
+grain-->01.txt 
+ship-->96.txt 
+acq-->98.txt 
+earn-->99.txt 
+money-fx-->97.txt 
+interest-->95.txt 
+crude-->90.txt 

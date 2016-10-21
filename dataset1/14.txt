@@ -1,0 +1,8 @@
+Numerosity Reduction
+“Can we reduce the data volume by choosing alternative, ‘smaller’ forms of data representation?” Techniques of numerosity reduction can indeed be applied for this purpose.
+These techniques may be parametric or nonparametric. For parametric methods, a
+model is used to estimate the data, so that typically only the data parameters need to
+be stored, instead of the actual data. (Outliers may also be stored.) Log-linear models,
+which estimate discrete multidimensional probability distributions, are an example.
+Nonparametric methods for storing reduced representations of the data include histograms, clustering, and sampling.
+Let’s look at each of the numerosity reduction techniques mentioned above
